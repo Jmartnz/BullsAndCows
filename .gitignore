@@ -2,3 +2,4 @@
 *.filters
 .vs/
 *.sln
+BullsAndCows/Debug/
